@@ -1,4 +1,4 @@
-name: Prompt Template Submission
+name: Prompt Template Contribution
 description: Submit a prompt template, detailing its functionality and tested results.
 title: Prompt Template for <Agent Name> <Describe Functionality>
 body:
