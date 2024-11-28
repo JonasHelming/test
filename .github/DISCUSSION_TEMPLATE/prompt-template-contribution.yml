@@ -1,6 +1,4 @@
-name: "Prompt Template Contribution"
-description: Submit a prompt template, detailing its functionality and tested results.
-title: Prompt Template for <Agent Name> <Describe Functionality>
+title: "Prompt Template for <Agent Name> <Describe Functionality>"
 body:
   - type: textarea
     id: what_template_does
